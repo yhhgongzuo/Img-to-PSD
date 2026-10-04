@@ -4,7 +4,7 @@
 
 文字双击即可改、产品道具可单独移动替换、背景可单独取用 —— 全程只需 3 步，不需要手动一点点抠图。
 
-**⬇️ 一键下载安装包：[image-to-layered-psd.zip](https://github.com/qq467864391-hub/Img-to-PSD/releases/latest/download/image-to-layered-psd.zip)**
+**⬇️ 一键下载安装包：[image-to-layered-psd.zip](https://github.com/yhhgongzuo/Img-to-PSD/releases/latest/download/image-to-layered-psd.zip)**
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### 第二步：导入 Zip 文件，自动安装 Skill
 
-下载安装包：**[image-to-layered-psd.zip](https://github.com/qq467864391-hub/Img-to-PSD/releases/latest/download/image-to-layered-psd.zip)**
+下载安装包：**[image-to-layered-psd.zip](https://github.com/yhhgongzuo/Img-to-PSD/releases/latest/download/image-to-layered-psd.zip)**
 
 把这份安装包直接导入到工作模式的任务窗口中发送，并附上提示词：
 
@@ -99,7 +99,7 @@ Skill 会自动处理：长边超过 4096 像素的图会先等比缩到 4096 �
 
 - 本仓库教程与流程均经过实际验证、跑通后整理发布。
 - 生成效果受图片复杂度、生图模型与额度影响，不承诺像素级一致；看不清的文字、品牌细节和偏差会被如实记录，不会编造。
-- 使用问题与 Bug 欢迎在 [Issues](https://github.com/qq467864391-hub/Img-to-PSD/issues) 反馈。
+- 使用问题与 Bug 欢迎在 [Issues](https://github.com/yhhgongzuo/Img-to-PSD/issues) 反馈。
 
 ## 📜 开源协议
 
