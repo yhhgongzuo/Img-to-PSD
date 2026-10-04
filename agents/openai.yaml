@@ -1,0 +1,6 @@
+interface:
+  display_name: "图片拆分为 PSD"
+  short_description: "原画布原位合批重建，校色去残色、保留细边和双层阴影，交付可编辑 PSD"
+  default_prompt: "使用 $image-to-layered-psd 将上传图片拆分为 PSD，保持原位比例，校色去残色，重建可编辑文字和独立双层阴影。"
+policy:
+  allow_implicit_invocation: true
